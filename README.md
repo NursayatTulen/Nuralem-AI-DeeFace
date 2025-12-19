@@ -2,8 +2,7 @@
 
 Nuralem AI DeeFace
 Nuralem AI DeeFace is an easy-to-use tool to swap faces in videos. You only need one image of a face to change it in any video. No training or large datasets are needed.
-
-🚀 Features
+ Features
 One-Click Face Swap: Easy and fast.
 
 No Training: Works instantly with one photo.
@@ -50,3 +49,4 @@ Special thanks to the InsightFace team for their AI models.
 
 
 Developed and edited by Nuralem AI.
+
