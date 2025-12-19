@@ -14,7 +14,7 @@ Note: This tool needs some technical skills to install.
 
 Install Requirements: Make sure you have Python, Git, and FFmpeg installed.
 
-Clone the project: ```bash git clone https://www.google.com/search?q=https://github.com/YOUR_USERNAME/Nuralem-AI-DeeFace.git
+Clone the project: ```[bash git clone https://github.com/NursayatTulen/Nuralem-AI-DeeFace]
 
 Install libraries:
 
@@ -49,6 +49,7 @@ Special thanks to the InsightFace team for their AI models.
 
 
 Developed and edited by Nuralem AI.
+
 
 
 
