@@ -21,7 +21,7 @@ Install libraries:
 Bash
 
 pip install -r requirements.txt
-💻 How to Use
+How to Use
 Run the program with this command:
 
 Bash
@@ -33,7 +33,7 @@ Select Target: Choose the video where you want to change the face.
 
 Start: Click start and wait for your video!
 
-⚠️ Disclaimer
+Disclaimer
 This software is for creative use only (like animation or movies). Please:
 
 Get permission before using someone's face.
@@ -49,5 +49,6 @@ Special thanks to the InsightFace team for their AI models.
 
 
 Developed and edited by Nuralem AI.
+
 
 
