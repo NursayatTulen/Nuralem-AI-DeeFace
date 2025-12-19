@@ -9,7 +9,7 @@ No Training: Works instantly with one photo.
 
 Privacy: Created for artists and creators for fun and work.
 
-🛠 Installation
+Installation
 Note: This tool needs some technical skills to install.
 
 Install Requirements: Make sure you have Python, Git, and FFmpeg installed.
@@ -49,4 +49,5 @@ Special thanks to the InsightFace team for their AI models.
 
 
 Developed and edited by Nuralem AI.
+
 
