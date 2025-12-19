@@ -1,6 +1,4 @@
-GitHub репозиторийіңізге арналған README.md файлын А2 деңгейіндегі қарапайым ағылшын тілінде, қысқа әрі нұсқа етіп дайындадым. Мұнда "Nuralem AI" атауы қолданылды және артық техникалық сөздер алынып тасталды.
 
-Төмендегі мәтінді көшіріп, GitHub-тағы README файлына қойыңыз:
 
 Nuralem AI DeeFace
 Nuralem AI DeeFace is an easy-to-use tool to swap faces in videos. You only need one image of a face to change it in any video. No training or large datasets are needed.
@@ -49,5 +47,6 @@ Credits
 This project is based on the original roop software.
 
 Special thanks to the InsightFace team for their AI models.
+
 
 Developed and edited by Nuralem AI.
